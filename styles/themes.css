@@ -1,0 +1,19 @@
+/* styles/themes.css */
+
+/* Thème clair */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+}
+
+/* Thème sombre */
+[data-theme='dark'] {
+  --bg-color: #000000;
+  --text-color: #ffffff;
+}
+
+/* Thème pastel chaud */
+[data-theme='warm'] {
+  --bg-color: #fff7e6;
+  --text-color: #663300;
+}
