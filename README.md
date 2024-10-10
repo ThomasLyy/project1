@@ -66,7 +66,7 @@ Cette application permet aux utilisateurs de :
 2. **Installer les Dépendances**
 
    ```bash
-   npm install
+   npm install next react react-dom typescript @types/react @types/node tailwindcss postcss autoprefixer prisma @prisma/client @tanstack/react-query axios daisyui
    ```
 
 ## **Configuration**
